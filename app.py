@@ -134,8 +134,7 @@ Sales Prediction using Decision Tree Regression
 - Joblib
 - Gradio
 
-**Instagram**
-`manya_singla_25`
+
 """)
 
                 gr.Markdown("## 📌 About Project")
